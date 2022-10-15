@@ -1,0 +1,55 @@
+.subscribe{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    Width:1057px;
+    Height: 100px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 150px;
+}
+h3{
+    margin-left: 72px;
+}
+h3 span{
+    color: #4540DB;
+}
+input{
+    border: none;
+    width: 150px;
+    height: 24px;
+    margin-left: 27px;
+}
+input:focus{
+    border: none;
+    outline: none;
+}
+button{
+    width: 119px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #4540DB;
+    border: none;
+    color: white;
+    margin-right: 6px;
+}
+.newsletter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 402px;
+    height: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-right: 70px;
+    border-radius: 20px;
+}
+.footers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+small{
+    margin-left: 190px;
+}
